@@ -5,12 +5,18 @@ theme: PaperMod
 
 # params:
 #   fuseOpts:
-#     # isCaseSensitive: false
+#     isCaseSensitive: false
 #     # shouldSort: true
 #     # location: 0
 #     # distance: 1_000
 #     # threshold:  0.4
 #     # minMatchCharLength:  0
+
+params:
+    fuseOpts:
+        ignoreLocation: true
+        keys: ["title", "permalink", "summary", "content"]
+
 
 outputs:
     home:
@@ -18,7 +24,7 @@ outputs:
         - RSS
         - JSON
 
-      
+ 
 
 params:
   homeInfoParams:
@@ -68,3 +74,14 @@ menu:
       name: Search
       url: /search/
       weight: -120
+
+# params:
+#     socialIcons:
+#         - name: email
+#           url: "mailto:blog@kpwn.de"
+#         - name: twitter
+#           url: "https://twitter.com/kwnypwny"
+#         - name: github
+#           url: "https://github.com/KwnyPwny"
+#         - name: RSS
+#           url: "/posts/index.xml" 
