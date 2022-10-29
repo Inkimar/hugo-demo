@@ -14,8 +14,8 @@ params:
         distance: 1000
         threshold: 0.4
         minMatchCharLength: 0
-        #keys: ["title", "permalink", "summary", "content"]
-        keys: ["summary"]
+        keys: ["title", "permalink", "summary", "content"]
+        #keys: ["summary"]
 
 
 outputs:
@@ -74,14 +74,3 @@ menu:
       name: Search
       url: /search/
       weight: -120
-
-# params:
-#     socialIcons:
-#         - name: email
-#           url: "mailto:blog@kpwn.de"
-#         - name: twitter
-#           url: "https://twitter.com/kwnypwny"
-#         - name: github
-#           url: "https://github.com/KwnyPwny"
-#         - name: RSS
-#           url: "/posts/index.xml" 
