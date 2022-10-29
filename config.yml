@@ -3,23 +3,19 @@ languageCode: en-us
 title: Virtuella Floran
 theme: PaperMod
 
-# params:
-#   fuseOpts:
-#     isCaseSensitive: false
-#     # shouldSort: true
-#     # location: 0
-#     # distance: 1_000
-#     # threshold:  0.4
-#     # minMatchCharLength:  0
+
 
 params:
     fuseOpts:
-        ignoreLocation: true
+        #ignoreLocation: true
+        isCaseSensitive: false
+        shouldSort: true
         location: 0
         distance: 1000
-        threshold:  0.4
-        minMatchCharLength:  0
-        keys: ["title", "permalink", "summary", "content"]
+        threshold: 0.4
+        minMatchCharLength: 0
+        #keys: ["title", "permalink", "summary", "content"]
+        keys: ["summary"]
 
 
 outputs:
@@ -44,7 +40,7 @@ params:
 
   # ShowShareButtons: true
 
-  ShowPostNavLinks: true
+  # ShowPostNavLinks: true
 
 # languages:
 #   en:
