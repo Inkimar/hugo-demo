@@ -36,19 +36,19 @@ params:
 
   ShowPostNavLinks: true
 
-languages:
-  en:
-    languageName: Engelska
-    contentDir: content
-    weight: 1
-  is:
-    languageName: Isländska
-    contentDir: content.is
-    weight: 2
-  sv:
-    languageName: Svenska
-    contentDir: content.se
-    weight: 2
+# languages:
+#   en:
+#     languageName: Engelska
+#     contentDir: content
+#     weight: 1
+#   is:
+#     languageName: Isländska
+#     contentDir: content.is
+#     weight: 2
+#   sv:
+#     languageName: Svenska
+#     contentDir: content.se
+#     weight: 2
         
 menu: 
   main:
