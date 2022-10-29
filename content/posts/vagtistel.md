@@ -4,7 +4,7 @@ title: "Vägtistel"
 draft: false
 # This is how you add a cover-image to a post ...
 cover:
-    image: img/1.jpg
+    image: /img/1.jpg
     alt: 'Bild av en vägtistel'
     caption: 'Figur: 1 blommande gren, 2 ett blad från stjälkens nedre del, 3 ett holkfjäll (2/1), 4 en enskild blomma (1 1/2), 5 pistill(2/1), 6 flygfrukt.'
 tags: ["korgväxter"]

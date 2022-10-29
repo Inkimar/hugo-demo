@@ -3,8 +3,8 @@ title: "Kåltistel"
 draft: false
 # This is how you add a cover-image to a post ...
 cover:
-    image: img/3.jpg
-    alt: 'Bild av en vägtistel'
+    image: /img/3.jpg
+    alt: 'Bild av en Kåltistel'
     caption: 'Figur: 1 stjälkstycke med blad, 2 grentopp med korgar, 3 blomma (3/1), 4 frukt (2/1).'
 tags: ["korgväxter"]
 categories: ["tistel"]

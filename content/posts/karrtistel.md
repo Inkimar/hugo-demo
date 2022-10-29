@@ -4,8 +4,8 @@ title: "Kärrtistel"
 draft: false
 # This is how you add a cover-image to a post ...
 cover:
-    image: img/2.jpg
-    alt: 'Bild av en vägtistel'
+    image: /img/2.jpg
+    alt: 'Bild av en Kärrtistel'
     caption: 'Figur: 2. Cirsium palustre , fig. 1 växtens översta del i blomning, 2 ett rosettblad, 3 flygfrukt (2/1).'
 tags: ['korgväxter']
 categories: ["tistel"]
