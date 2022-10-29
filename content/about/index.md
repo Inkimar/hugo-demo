@@ -4,7 +4,8 @@ This page is an extract from [Nordens Flora](http://runeberg.org/nordflor/) a Ru
 
 ## Om originalet
 
-Detta är en (ännu så länge) ofullständig utgåva av "Bilder ur Nordens Flora" skriven av C. A. M. Lindman. Verket består av 3 band med beskrivningar och planscher av drygt 650 växter. Verket utgavs första gången 1901-1905, men den här återgivna utgåvan, den tredje, utkom med sitt första band 1917.
+Detta är en (ännu så länge) ofullständig utgåva av "Bilder ur Nordens Flora" skriven av [C. A. M. Lindman](https://sv.wikipedia.org/wiki/Carl_Lindman)
+. Verket består av 3 band med beskrivningar och planscher av drygt 650 växter. Verket utgavs första gången 1901-1905, men den här återgivna utgåvan, den tredje, utkom med sitt första band 1917.
 
 ## Om denna utgåva
 
