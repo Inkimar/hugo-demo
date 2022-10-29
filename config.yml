@@ -3,6 +3,23 @@ languageCode: en-us
 title: Virtuella Floran
 theme: PaperMod
 
+# params:
+#   fuseOpts:
+#     # isCaseSensitive: false
+#     # shouldSort: true
+#     # location: 0
+#     # distance: 1_000
+#     # threshold:  0.4
+#     # minMatchCharLength:  0
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+      
+
 params:
   homeInfoParams:
     Title: "Bilder ur Nordens Flora (1917-1926)"
@@ -19,11 +36,19 @@ params:
 
   ShowPostNavLinks: true
 
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+languages:
+  en:
+    languageName: Engelska
+    contentDir: content
+    weight: 1
+  is:
+    languageName: Isländska
+    contentDir: content.is
+    weight: 2
+  sv:
+    languageName: Svenska
+    contentDir: content.se
+    weight: 2
         
 menu: 
   main:
@@ -39,3 +64,7 @@ menu:
       name: about virtuella
       url: /about/
       weight: -100
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: -120
