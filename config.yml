@@ -15,7 +15,7 @@ params:
 
   ShowReadingTime: true
 
-  ShowShareButtons: true
+  # ShowShareButtons: true
 
   ShowPostNavLinks: true
 
@@ -35,3 +35,7 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
+    - identifier: about
+      name: about virtuella
+      url: /about/
+      weight: -100
