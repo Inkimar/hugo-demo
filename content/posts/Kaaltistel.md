@@ -11,7 +11,7 @@ categories: ["tistel"]
 ---
   3. Kåltistel, Cirsium oleraceum Scop.
 
-               N. Kaaltistel. F. Kaali-ohdake ("kåltistel").
+               N. Kaaltistel. F. Kaali-ohdake ("kåltistel") Isl. bla bla .
 
    Denna art skiljer sig från de föregående genom blomkronornas blekgula
    färg (de rödblommiga tistelarterna kunna någon gång anträffas med vita

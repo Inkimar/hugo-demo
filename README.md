@@ -10,6 +10,9 @@
 
 - https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/
 
+### search with lunr
+- https://victoria.dev/blog/add-search-to-hugo-static-sites-with-lunr/
+
 
 ## deployed to  -> netlify
 https://app.netlify.com 
